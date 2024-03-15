@@ -20,3 +20,14 @@
     15. Screenshot for failed test method.
     16. Now, run FrameWork to test Extent Report is generated and failed Test Method has captured ScreenShot or not.
    
+### I have written Test Cases of OrangeHRM as below - 
+    1. Go to the Opensource-demo.orangehrmlive.com
+     Verify the login by Valid Username and Password credentials i.e. Admin & admin123.
+
+    2. Verify the login by Valid Username and Invalid Password i.e. Admin & admin123456.
+
+    3. Verify the login by Valid Username and Password credentials i.e. Admin & admin123.
+        - Once we Login to the Dashboard click on PIM/ Profile Image/ Logout.
+
+    4. Verify the login by Valid Username and Password credentials i.e. Admin & admin123.  
+        - Once we Login to the Dashboard click on PIM/ Add Button/ Fill Valid FirstName, MiddleName, LastName & click on Save Button/ And capture Shadow DOM Element. 
