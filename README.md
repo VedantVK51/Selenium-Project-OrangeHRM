@@ -20,7 +20,7 @@
     15. Screenshot for failed test method.
     16. Now, run FrameWork to test Extent Report is generated and failed Test Method has captured ScreenShot or not.
    
-### I have written Test Cases of OrangeHRM as below - 
+### I have written and Automate Test Cases of OrangeHRM as below - 
     1. Go to the Opensource-demo.orangehrmlive.com
      Verify the login by Valid Username and Password credentials i.e. Admin & admin123.
 
